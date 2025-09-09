@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Torre Eiffel",
+    "city": "Paris",
+    "country": "França",
+    "description": "O monumento mais icônico de Paris, símbolo da França e um dos destinos turísticos mais visitados do mundo.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
+    "coordinates": {
+      "latitude": 48.8584,
+      "longitude": 2.2945
+    },
+    "yearBuilt": 1889,
+    "height": "330m",
+    "category": "Monumento",
+    "status": "Ativo",
+    "visitorsPerYear": 7000000,
+    "price": {
+      "adult": 29.40,
+      "child": 14.70,
+      "currency": "EUR"
+    },
+    "openingHours": {
+      "monday": "09:30-23:45",
+      "tuesday": "09:30-23:45",
+      "wednesday": "09:30-23:45",
+      "thursday": "09:30-23:45",
+      "friday": "09:30-23:45",
+      "saturday": "09:30-23:45",
+      "sunday": "09:30-23:45"
+    },
+    "tags": ["Arquitetura", "História", "Romântico", "Vista Panorâmica"],
+    "rating": 4.6,
+    "difficulty": "Fácil",
+    "bestTimeToVisit": ["Primavera", "Verão"],
+    "languages": ["Francês", "Inglês", "Espanhol"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "elevatorAvailable": true,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Champ de Mars", "Trocadéro", "Sena"],
+    "website": "https://www.toureiffel.paris/",
+    "phone": "+33 1 44 11 23 23",
+    "email": "info@toureiffel.paris"
+  },
+  {
+    "id": 2,
+    "name": "Coliseu",
+    "city": "Roma",
+    "country": "Itália",
+    "description": "Um dos maiores anfiteatros já construídos, símbolo do Império Romano e da capital italiana.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Colosseum-Rom.jpg",
+    "coordinates": {
+      "latitude": 41.8902,
+      "longitude": 12.4922
+    },
+    "yearBuilt": 80,
+    "height": "50m",
+    "category": "Sítio Arqueológico",
+    "status": "Ativo",
+    "visitorsPerYear": 7500000,
+    "price": {
+      "adult": 16.00,
+      "child": 2.00,
+      "currency": "EUR"
+    },
+    "openingHours": {
+      "monday": "08:30-16:30",
+      "tuesday": "08:30-16:30",
+      "wednesday": "08:30-16:30",
+      "thursday": "08:30-16:30",
+      "friday": "08:30-16:30",
+      "saturday": "08:30-16:30",
+      "sunday": "08:30-16:30"
+    },
+    "tags": ["História Antiga", "Arquitetura Romana", "Gladiadores", "UNESCO"],
+    "rating": 4.7,
+    "difficulty": "Médio",
+    "bestTimeToVisit": ["Primavera", "Outono"],
+    "languages": ["Italiano", "Inglês", "Espanhol", "Francês"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "elevatorAvailable": false,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Fórum Romano", "Palatino", "Arco de Constantino"],
+    "website": "https://www.coopculture.it/heritage.cfm?id=4",
+    "phone": "+39 06 3996 7700",
+    "email": "info@coopculture.it"
+  },
+  {
+    "id": 3,
+    "name": "Cristo Redentor",
+    "city": "Rio de Janeiro",
+    "country": "Brasil",
+    "description": "Uma das sete maravilhas do mundo moderno, o Cristo Redentor é um símbolo do Rio de Janeiro e do Brasil.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Christ_on_Corcovado_mountain.JPG/2560px-Christ_on_Corcovado_mountain.JPG",
+    "coordinates": {
+      "latitude": -22.9519,
+      "longitude": -43.2105
+    },
+    "yearBuilt": 1931,
+    "height": "38m",
+    "category": "Monumento Religioso",
+    "status": "Ativo",
+    "visitorsPerYear": 2000000,
+    "price": {
+      "adult": 25.00,
+      "child": 12.50,
+      "currency": "BRL"
+    },
+    "openingHours": {
+      "monday": "08:00-19:00",
+      "tuesday": "08:00-19:00",
+      "wednesday": "08:00-19:00",
+      "thursday": "08:00-19:00",
+      "friday": "08:00-19:00",
+      "saturday": "08:00-19:00",
+      "sunday": "08:00-19:00"
+    },
+    "tags": ["Religião", "Arte Deco", "Vista Panorâmica", "Maravilha do Mundo"],
+    "rating": 4.8,
+    "difficulty": "Fácil",
+    "bestTimeToVisit": ["Primavera", "Verão", "Outono"],
+    "languages": ["Português", "Inglês", "Espanhol"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "elevatorAvailable": true,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Pão de Açúcar", "Praia de Copacabana", "Floresta da Tijuca"],
+    "website": "https://www.cristoredentoroficial.com.br/",
+    "phone": "+55 21 2558-1329",
+    "email": "contato@cristoredentoroficial.com.br"
+  },
+  {
+    "id": 4,
+    "name": "Muralha da China",
+    "city": "Pequim",
+    "country": "China",
+    "description": "Construção milenar com milhares de quilômetros de extensão, considerada uma das maiores obras da humanidade.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Badaling_China_Great-Wall-of-China-01.jpg/1200px-Badaling_China_Great-Wall-of-China-01.jpg",
+    "coordinates": {
+      "latitude": 40.4319,
+      "longitude": 116.5704
+    },
+    "yearBuilt": "220 a.C.",
+    "height": "8m",
+    "category": "Sítio Histórico",
+    "status": "Ativo",
+    "visitorsPerYear": 10000000,
+    "price": {
+      "adult": 45.00,
+      "child": 25.00,
+      "currency": "CNY"
+    },
+    "openingHours": {
+      "monday": "06:30-19:00",
+      "tuesday": "06:30-19:00",
+      "wednesday": "06:30-19:00",
+      "thursday": "06:30-19:00",
+      "friday": "06:30-19:00",
+      "saturday": "06:30-19:00",
+      "sunday": "06:30-19:00"
+    },
+    "tags": ["História Antiga", "Arquitetura Militar", "UNESCO", "Maravilha do Mundo"],
+    "rating": 4.5,
+    "difficulty": "Difícil",
+    "bestTimeToVisit": ["Primavera", "Outono"],
+    "languages": ["Mandarim", "Inglês", "Japonês", "Coreano"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "elevatorAvailable": false,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Cidade Proibida", "Templo do Céu", "Palácio de Verão"],
+    "website": "https://www.thegreatwall.com.cn/",
+    "phone": "+86 10 6162 6022",
+    "email": "info@thegreatwall.com.cn"
+  },
+  {
+    "id": 5,
+    "name": "Machu Picchu",
+    "city": "Cusco",
+    "country": "Peru",
+    "description": "Cidade inca no alto dos Andes, considerada uma das sete maravilhas do mundo moderno.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+    "coordinates": {
+      "latitude": -13.1631,
+      "longitude": -72.5450
+    },
+    "yearBuilt": "1450",
+    "height": "2430m",
+    "category": "Sítio Arqueológico",
+    "status": "Ativo",
+    "visitorsPerYear": 1500000,
+    "price": {
+      "adult": 152.00,
+      "child": 70.00,
+      "currency": "PEN"
+    },
+    "openingHours": {
+      "monday": "06:00-17:00",
+      "tuesday": "06:00-17:00",
+      "wednesday": "06:00-17:00",
+      "thursday": "06:00-17:00",
+      "friday": "06:00-17:00",
+      "saturday": "06:00-17:00",
+      "sunday": "06:00-17:00"
+    },
+    "tags": ["História Inca", "Arquitetura Antiga", "UNESCO", "Maravilha do Mundo", "Trekking"],
+    "rating": 4.9,
+    "difficulty": "Difícil",
+    "bestTimeToVisit": ["Maio", "Setembro", "Outubro"],
+    "languages": ["Espanhol", "Quíchua", "Inglês"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "elevatorAvailable": false,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Huayna Picchu", "Templo do Sol", "Vale Sagrado"],
+    "website": "https://www.machupicchu.gob.pe/",
+    "phone": "+51 84 582030",
+    "email": "info@machupicchu.gob.pe"
+  },
+  {
+    "id": 6,
+    "name": "Estátua da Liberdade",
+    "city": "Nova York",
+    "country": "Estados Unidos",
+    "description": "Presente da França aos EUA, a estátua é símbolo de liberdade e democracia, localizada na Ilha da Liberdade.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Statue_of_Liberty_7.jpg",
+    "coordinates": {
+      "latitude": 40.6892,
+      "longitude": -74.0445
+    },
+    "yearBuilt": 1886,
+    "height": "93m",
+    "category": "Monumento",
+    "status": "Ativo",
+    "visitorsPerYear": 4500000,
+    "price": {
+      "adult": 25.00,
+      "child": 12.00,
+      "currency": "USD"
+    },
+    "openingHours": {
+      "monday": "09:30-15:30",
+      "tuesday": "09:30-15:30",
+      "wednesday": "09:30-15:30",
+      "thursday": "09:30-15:30",
+      "friday": "09:30-15:30",
+      "saturday": "09:30-15:30",
+      "sunday": "09:30-15:30"
+    },
+    "tags": ["História Americana", "Símbolo Nacional", "Imigração", "UNESCO"],
+    "rating": 4.4,
+    "difficulty": "Médio",
+    "bestTimeToVisit": ["Primavera", "Verão", "Outono"],
+    "languages": ["Inglês", "Espanhol", "Francês", "Italiano"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "elevatorAvailable": true,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Ellis Island", "Battery Park", "One World Trade Center"],
+    "website": "https://www.nps.gov/stli/",
+    "phone": "+1 212 363-3200",
+    "email": "info@nps.gov"
+  },
+  {
+    "id": 7,
+    "name": "Taj Mahal",
+    "city": "Agra",
+    "country": "Índia",
+    "description": "Mausoléu de mármore branco, construído no século XVII, considerado uma das sete maravilhas do mundo moderno.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+    "coordinates": {
+      "latitude": 27.1751,
+      "longitude": 78.0421
+    },
+    "yearBuilt": 1653,
+    "height": "73m",
+    "category": "Mausoléu",
+    "status": "Ativo",
+    "visitorsPerYear": 8000000,
+    "price": {
+      "adult": 1100.00,
+      "child": 0.00,
+      "currency": "INR"
+    },
+    "openingHours": {
+      "monday": "06:00-19:00",
+      "tuesday": "06:00-19:00",
+      "wednesday": "Fechado",
+      "thursday": "06:00-19:00",
+      "friday": "06:00-19:00",
+      "saturday": "06:00-19:00",
+      "sunday": "06:00-19:00"
+    },
+    "tags": ["Arquitetura Mughal", "Amor", "Mármore", "UNESCO", "Maravilha do Mundo"],
+    "rating": 4.7,
+    "difficulty": "Fácil",
+    "bestTimeToVisit": ["Outubro", "Novembro", "Fevereiro", "Março"],
+    "languages": ["Hindi", "Inglês", "Francês", "Espanhol"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "elevatorAvailable": false,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Forte de Agra", "Fatehpur Sikri", "Jardins Mehtab Bagh"],
+    "website": "https://www.tajmahal.gov.in/",
+    "phone": "+91 562 222 6431",
+    "email": "info@tajmahal.gov.in"
+  },
+  {
+    "id": 8,
+    "name": "Pirâmides de Gizé",
+    "city": "Gizé",
+    "country": "Egito",
+    "description": "As pirâmides de Quéops, Quéfren e Miquerinos são as únicas das Sete Maravilhas do Mundo Antigo ainda existentes.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+    "coordinates": {
+      "latitude": 29.9792,
+      "longitude": 31.1342
+    },
+    "yearBuilt": "2580-2510 a.C.",
+    "height": "146m",
+    "category": "Sítio Arqueológico",
+    "status": "Ativo",
+    "visitorsPerYear": 14000000,
+    "price": {
+      "adult": 200.00,
+      "child": 100.00,
+      "currency": "EGP"
+    },
+    "openingHours": {
+      "monday": "08:00-17:00",
+      "tuesday": "08:00-17:00",
+      "wednesday": "08:00-17:00",
+      "thursday": "08:00-17:00",
+      "friday": "08:00-17:00",
+      "saturday": "08:00-17:00",
+      "sunday": "08:00-17:00"
+    },
+    "tags": ["História Antiga", "Arquitetura Egípcia", "UNESCO", "Maravilha do Mundo Antigo"],
+    "rating": 4.6,
+    "difficulty": "Médio",
+    "bestTimeToVisit": ["Outubro", "Novembro", "Dezembro", "Janeiro", "Fevereiro"],
+    "languages": ["Árabe", "Inglês", "Francês", "Espanhol"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "elevatorAvailable": false,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Esfinge", "Museu do Cairo", "Vale dos Reis"],
+    "website": "https://www.egypt.travel/",
+    "phone": "+20 2 3570 6864",
+    "email": "info@egypt.travel"
+  },
+  {
+    "id": 9,
+    "name": "Big Ben",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "description": "O famoso relógio da torre do Parlamento britânico, localizado às margens do Rio Tâmisa.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Big_Ben_in_London.JPG",
+    "coordinates": {
+      "latitude": 51.4994,
+      "longitude": -0.1245
+    },
+    "yearBuilt": 1859,
+    "height": "96m",
+    "category": "Monumento",
+    "status": "Em Reforma",
+    "visitorsPerYear": 0,
+    "price": {
+      "adult": 0.00,
+      "child": 0.00,
+      "currency": "GBP"
+    },
+    "openingHours": {
+      "monday": "Exterior apenas",
+      "tuesday": "Exterior apenas",
+      "wednesday": "Exterior apenas",
+      "thursday": "Exterior apenas",
+      "friday": "Exterior apenas",
+      "saturday": "Exterior apenas",
+      "sunday": "Exterior apenas"
+    },
+    "tags": ["Arquitetura Vitoriana", "Símbolo Nacional", "Relógio", "Parlamento"],
+    "rating": 4.3,
+    "difficulty": "Fácil",
+    "bestTimeToVisit": ["Primavera", "Verão", "Outono"],
+    "languages": ["Inglês", "Francês", "Espanhol", "Alemão"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "elevatorAvailable": false,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Palácio de Westminster", "Abadia de Westminster", "London Eye"],
+    "website": "https://www.parliament.uk/",
+    "phone": "+44 20 7219 3000",
+    "email": "info@parliament.uk"
+  },
+  {
+    "id": 10,
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "country": "Austrália",
+    "description": "Um dos edifícios mais icônicos do mundo, famoso por sua arquitetura moderna e palco de grandes apresentações culturais.",
+    "primaryImage": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sydney_Opera_House_Sails.jpg",
+    "coordinates": {
+      "latitude": -33.8568,
+      "longitude": 151.2153
+    },
+    "yearBuilt": 1973,
+    "height": "65m",
+    "category": "Centro Cultural",
+    "status": "Ativo",
+    "visitorsPerYear": 10000000,
+    "price": {
+      "adult": 43.00,
+      "child": 24.00,
+      "currency": "AUD"
+    },
+    "openingHours": {
+      "monday": "09:00-17:00",
+      "tuesday": "09:00-17:00",
+      "wednesday": "09:00-17:00",
+      "thursday": "09:00-17:00",
+      "friday": "09:00-17:00",
+      "saturday": "09:00-17:00",
+      "sunday": "09:00-17:00"
+    },
+    "tags": ["Arquitetura Moderna", "UNESCO", "Cultura", "Música", "Teatro"],
+    "rating": 4.5,
+    "difficulty": "Fácil",
+    "bestTimeToVisit": ["Primavera", "Verão", "Outono"],
+    "languages": ["Inglês", "Mandarim", "Japonês", "Coreano"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "elevatorAvailable": true,
+      "audioGuide": true
+    },
+    "nearbyAttractions": ["Harbour Bridge", "Royal Botanic Gardens", "Circular Quay"],
+    "website": "https://www.sydneyoperahouse.com/",
+    "phone": "+61 2 9250 7777",
+    "email": "info@sydneyoperahouse.com"
+  }
+]

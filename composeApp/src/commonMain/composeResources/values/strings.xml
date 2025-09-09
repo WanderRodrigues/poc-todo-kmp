@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="label_name">Nome</string>
+    <string name="label_city">Cidade</string>
+    <string name="label_country">País</string>
+    <string name="label_description">Descrição</string>
+    <string name="label_category">Categoria</string>
+    <string name="label_rating">Avaliação</string>
+    <string name="label_difficulty">Dificuldade</string>
+    <string name="label_price">Preço</string>
+    <string name="label_visitors">Visitantes/Ano</string>
+    <string name="label_accessibility">Acessibilidade</string>
+    <string name="label_contact">Contato</string>
+    <string name="label_best_time">Melhor Época</string>
+    <string name="label_tags">Tags</string>
+
+    <string name="back">Voltar</string>
+
+    <string name="no_data_available">Nenhum dado disponível</string>
+    <string name="loading">Carregando...</string>
+    <string name="error_loading">Erro ao carregar dados</string>
+</resources>
