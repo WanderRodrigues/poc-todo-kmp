@@ -10,7 +10,7 @@
       "latitude": 48.8584,
       "longitude": 2.2945
     },
-    "yearBuilt": 1889,
+    "yearBuilt": "1889",
     "height": "330m",
     "category": "Monumento",
     "status": "Ativo",
@@ -55,7 +55,7 @@
       "latitude": 41.8902,
       "longitude": 12.4922
     },
-    "yearBuilt": 80,
+    "yearBuilt": "80",
     "height": "50m",
     "category": "Sítio Arqueológico",
     "status": "Ativo",
@@ -100,7 +100,7 @@
       "latitude": -22.9519,
       "longitude": -43.2105
     },
-    "yearBuilt": 1931,
+    "yearBuilt": "1931",
     "height": "38m",
     "category": "Monumento Religioso",
     "status": "Ativo",
@@ -235,7 +235,7 @@
       "latitude": 40.6892,
       "longitude": -74.0445
     },
-    "yearBuilt": 1886,
+    "yearBuilt": "1886",
     "height": "93m",
     "category": "Monumento",
     "status": "Ativo",
@@ -280,7 +280,7 @@
       "latitude": 27.1751,
       "longitude": 78.0421
     },
-    "yearBuilt": 1653,
+    "yearBuilt": "1653",
     "height": "73m",
     "category": "Mausoléu",
     "status": "Ativo",
@@ -370,7 +370,7 @@
       "latitude": 51.4994,
       "longitude": -0.1245
     },
-    "yearBuilt": 1859,
+    "yearBuilt": "1859",
     "height": "96m",
     "category": "Monumento",
     "status": "Em Reforma",
@@ -415,7 +415,7 @@
       "latitude": -33.8568,
       "longitude": 151.2153
     },
-    "yearBuilt": 1973,
+    "yearBuilt": "1973",
     "height": "65m",
     "category": "Centro Cultural",
     "status": "Ativo",
