@@ -5,7 +5,13 @@
 
 Este é um aplicativo Kotlin Multiplatform que exibe uma lista de lugares turísticos famosos ao redor do mundo. O app foi desenvolvido como uma prova de conceito (POC) para demonstrar as capacidades do KMP (Kotlin Multiplatform) com Compose Multiplatform.
 
-![Screenshots of the app](images/screenshots.png)
+## 📱 Demonstração do App
+
+### Android
+https://github.com/WanderRodrigues/poc-todo-kmp/blob/main/videos/android.webm
+
+### iOS  
+https://github.com/WanderRodrigues/poc-todo-kmp/blob/main/videos/ios.mp4
 
 ## 📱 Funcionalidades
 
